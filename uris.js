@@ -1,5 +1,5 @@
 /*
-Example of extraction of URIs for a object place
+Example of extraction URIs for a object place
 */
 
 $(document).ready(function(){
@@ -19,7 +19,7 @@ $(document).ready(function(){
    		var classtype = "place";
 		var label = $('#city').val();
 
-         //Has the user entered anything?
+         //Did the user enter anything?
 
          if(label == ''){
 
